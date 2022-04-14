@@ -26,3 +26,8 @@ Week 4:
 - Train Generator and Validation Generator
 - Effect of Compacted Images in Training
 - Assignment: Using CNN on happy or sad dataset, and also use callback
+
+## Certificate:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99332005/163386712-dd3a5a5d-95c3-4ecf-8f47-72f3cf2d3803.png">
+</p>
