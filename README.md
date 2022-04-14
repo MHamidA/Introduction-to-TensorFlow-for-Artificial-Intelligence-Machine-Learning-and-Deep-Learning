@@ -15,3 +15,8 @@ Week 2:
 - Simple compute vision practice in tensorflow
 - Callbacks to control training
 - Assignment: create a simple computer vsion model and using callback on training model on Fashion MNIST dataset
+
+Week 3:
+- Introduction using Convolutional Layer
+- Exploring convolutional (pooling and conv)
+- Assignment: Improving week 2 module using conv
