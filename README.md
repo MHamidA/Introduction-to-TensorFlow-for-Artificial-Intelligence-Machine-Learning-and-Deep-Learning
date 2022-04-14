@@ -20,3 +20,9 @@ Week 3:
 - Introduction using Convolutional Layer
 - Exploring convolutional (pooling and conv)
 - Assignment: Improving week 2 module using conv
+
+Week 4:
+- ImageDataGenerator (prep, label flow from directory)
+- Train Generator and Validation Generator
+- Effect of Compacted Images in Training
+- Assignment: Using CNN on happy or sad dataset, and also use callback
